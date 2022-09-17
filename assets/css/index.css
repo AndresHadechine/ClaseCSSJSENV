@@ -1,9 +1,13 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .colorRojo {
     color: red;
 }
 
 .colorVerde {
-    color: green;
+    color: green; 
 }
 
 h2 {
@@ -13,3 +17,12 @@ h2 {
 #parrafo {
     font-size: 30px;
 }
+
+div {
+    writing-mode: vertical-rl;
+}
+
+body {
+    background: linear-gradient(90deg, #692059 0%, #fff 100%);
+}
+
